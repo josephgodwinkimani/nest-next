@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "christian-kohler.npm-intellisense",
+        "christian-kohler.path-intellisense",
+        "visualstudioexptteam.vscodeintellicode",
+        "pulkitgangwar.nextjs-snippets"
+    ]
+}
